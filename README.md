@@ -4,7 +4,7 @@
 </a></p>
   <hr>
 <p align="center">
-<a href="https://guthub.com/Nocturnal-OFC"
+<a href="https://guthub.com/Nocturnal-OFC">
 <img height="160" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nocturnal-OFC&layout=compact&theme=react&hide_border=true" />
 </a></p>
 ![](GIF-1.gif)
