@@ -1,5 +1,10 @@
 ### Hi there 👋
-![GIF-1](https://github.com/Nocturnal-OFC/Nocturnal-OFC/blob/main/GIF-1.gif?raw=true)
+
+![GIF-1](https://github.com/Nocturnal-OFC/Nocturnal-OFC/blob/main/GIF-1.gif)
+
+Skills: VUE JS / REACT / JS / HTML / CSS / PHP / python
+
+- 🔭 Pronouns: Nocturnal
 <!--
 **Nocturnal-OFC/Nocturnal-OFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
