@@ -7,6 +7,6 @@
 
 <p align="center"><img src="GIF-1.gif" >
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP / python
+Skills: JS / HTML / CSS / PHP / python
 
 - 🔭 Pronouns: Nocturnal
