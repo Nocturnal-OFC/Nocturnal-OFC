@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GIF-1](/Nocturnal-OFC/Nocturnal-OFC/blob/main/GIF-1.gif?raw=true)
+![GIF-1](Nocturnal-OFC/Nocturnal-OFC/blob/main/GIF-1.gif?raw=true)
 <!--
 **Nocturnal-OFC/Nocturnal-OFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
