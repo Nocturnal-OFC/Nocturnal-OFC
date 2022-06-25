@@ -1,7 +1,0 @@
-.line{
-    height: 3px;
-    background: linear-gradient(90deg,#47cf73,#ffdd40,#ae63e4,#0ebeff,#47cf73);
-    border-radius: 4px;
-    flex-grow: 1;
-    margin-left: 6px;
-}
