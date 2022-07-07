@@ -5,6 +5,6 @@
 </p><hr>
 <p align="center"><img src="GIF-1.gif" >
 
-Skills: JS / HTML / CSS / PHP / python
+```Skills: JS / HTML / CSS / PHP / python```
 
 - 🔭 Pronouns: Nocturnal
