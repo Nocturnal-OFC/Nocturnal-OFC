@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nocturnal-OFC&langs_count=30&theme=merko&hide_border=true" />
 </p><hr>
-<center><p align="center"><img src="GIF-1.gif" ></center><hr>
+<center><p align="center"><img src="GIF-1.gif" ><hr>
   
 ```Skills: JS / HTML / CSS / PHP / python```
-- 🔭 Pronouns: Nocturnal
+- 🔭 Pronouns: Nocturnal</center>
